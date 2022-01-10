@@ -1,5 +1,6 @@
 # News-Article-Sentiment-Analysis
 
+
 Identified 2 news reporting channels and verified if the reported news are based in accordance to the all-media bias chart using sentimental analysis.
 
 
